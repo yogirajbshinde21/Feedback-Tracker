@@ -7,7 +7,7 @@
 
 **AI-powered customer feedback management system built with MERN stack**
 
-[🚀 Live Demo](#quick-start) • [💡 Key Features](#features) • [🛠️ Tech Stack](#tech-stack)
+[💡 Key Features](#features) • [🛠️ Tech Stack](#tech-stack)
 
 </div>
 
